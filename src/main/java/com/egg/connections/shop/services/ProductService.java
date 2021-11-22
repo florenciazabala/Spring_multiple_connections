@@ -1,4 +1,4 @@
-package com.egg.connections.services;
+package com.egg.connections.shop.services;
 
 import com.egg.connections.shop.repo.ProductDAO;
 import com.egg.connections.shop.models.Product;

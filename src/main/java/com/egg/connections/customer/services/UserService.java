@@ -1,4 +1,4 @@
-package com.egg.connections.services;
+package com.egg.connections.customer.services;
 
 import com.egg.connections.customer.repo.UserDAO;
 import com.egg.connections.customer.models.User;

@@ -1,6 +1,6 @@
-package com.egg.connections.controllers;
+package com.egg.connections.customer.controllers;
 
-import com.egg.connections.services.UserService;
+import com.egg.connections.customer.services.UserService;
 import com.egg.connections.customer.models.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

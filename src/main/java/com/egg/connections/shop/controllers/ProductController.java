@@ -1,6 +1,6 @@
-package com.egg.connections.controllers;
+package com.egg.connections.shop.controllers;
 
-import com.egg.connections.services.ProductService;
+import com.egg.connections.shop.services.ProductService;
 import com.egg.connections.shop.models.Product;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
